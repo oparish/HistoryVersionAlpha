@@ -1,0 +1,6 @@
+package sliders;
+
+public enum SliderId
+{
+	FARMER_ID, BUILDER_ID, GATHERER_ID, MESSENGER_ID, SOLDIER_ID, ENVOY_ID, CARRIER_ID, TRANSFER_ID;
+}
